@@ -15,6 +15,10 @@
       {
         "source": "/g-mark",
         "function": "gMark"
+      },
+      {
+        "source": "**",
+        "destination": "/index.html"
       }
     ]
   }
